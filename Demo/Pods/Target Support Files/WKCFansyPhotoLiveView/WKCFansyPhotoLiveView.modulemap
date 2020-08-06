@@ -1,0 +1,6 @@
+framework module WKCFansyPhotoLiveView {
+  umbrella header "WKCFansyPhotoLiveView-umbrella.h"
+
+  export *
+  module * { export * }
+}
